@@ -1,32 +1,47 @@
 player_name,rank,factions,archetype_hint,PC1,PC2
-hungrylouna129,4,Demacia|F37|Freljord|Ionia,,-1.2945234,-2.4667628
-Borden,5,Bandle City|F08|Freljord|Ionia|Noxus|Shadow Isles,,1.8586261,10.306209
-waitimplaying,6,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.241291,-2.798868
-Mzhkm,8,Bandle City|F38|Freljord|Ionia|Noxus|Piltover & Zaun,,-0.82186383,1.3385507
-Evilkyatt,11,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-2.9324234,-4.817421
-Davebo,12,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun,,-2.9157817,-5.2042036
-Carrot Spirit,28,Bandle City|Noxus,,0.7427724,1.6253134
-ANG3L,30,Freljord|Mount Targon|Noxus,,-0.5069761,0.3764121
-waitimplaying,4,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.2412913,-2.7988667
-Mzhkm,6,Bandle City|F32|Freljord|Ionia|Piltover & Zaun|Shadow Isles,,-1.1663965,0.9190515
-Borden,7,Bandle City|F08|Freljord|Ionia|Noxus|Shadow Isles,,1.8586242,10.306209
-hungrylouna129,8,Bilgewater|Noxus|Shadow Isles,,0.10719044,6.495658
-Davebo,13,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun,,-2.9157798,-5.2042046
-Evilkyatt,14,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-2.9324253,-4.817421
-Im Bard Out,19,Bandle City|F18|Freljord|Mount Targon|Shurima,,0.15319525,1.5310477
-Carrot Spirit,29,Bandle City|Noxus,,0.7427734,1.6253126
-mbrookz,21,Bilgewater|Demacia|Piltover & Zaun,,-3.0333905,-5.0518355
-NotreDammit,36,Bandle City|Bilgewater|Piltover & Zaun,,0.0251633,0.3650282
-Scilla,37,Demacia,,-0.3917338,-0.03943713
-netinho99,39,Freljord|Noxus|Piltover & Zaun|Shurima,,3.5496292,0.5447129
-ANG3L,40,Bilgewater|Demacia,,-2.3060474,-2.5561488
-Keldog,41,Ionia|Mount Targon|Noxus|Shadow Isles|Shurima,,0.55946004,4.3486805
-Borden,2,Freljord|Piltover & Zaun,aggro,-0.3148695,-0.29845825
-mbrookz,5,Bilgewater|Demacia|Piltover & Zaun,,-3.03339,-5.051835
-Mzhkm,8,Bandle City|F32|Freljord|Ionia|Piltover & Zaun|Shadow Isles,,-1.1663975,0.9190514
-hungrylouna129,12,Bilgewater|Noxus|Shadow Isles,,0.10718934,6.495659
-NotreDammit,14,Bandle City|F127|Freljord|Piltover & Zaun|Shadow Isles,,0.7067609,8.745559
-Evilkyatt,16,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-2.9324253,-4.817421
-Im Bard Out,18,Bandle City|F43|Freljord|Ionia|Mount Targon|Noxus|Piltover & Zaun|Runeterra|Shurima,,24.606356,-7.3524313
-waitimplaying,24,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.2412903,-2.798868
-iNilesD,29,F08|Noxus|Piltover & Zaun|Shurima,,0.3705588,0.13173331
+hungrylouna129,4,Demacia|F37|Freljord|Ionia,,-1.791821,-5.329594
+Borden,5,Bandle City|F08|Freljord|Ionia|Noxus|Shadow Isles,,-1.333349,10.82273
+waitimplaying,6,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.3461316,-5.1778193
+Mzhkm,8,Bandle City|F38|Freljord|Ionia|Noxus|Piltover & Zaun,,-1.2913586,-1.3861864
+Evilkyatt,11,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-1.7597543,-4.935474
+Davebo,12,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun,,-1.8763922,-5.2567024
+Carrot Spirit,28,Bandle City|Noxus,,-0.4350691,2.125078
+ANG3L,30,Freljord|Mount Targon|Noxus,,-1.2157029,-0.54125047
+waitimplaying,4,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.3461351,-5.1778193
+Mzhkm,6,Bandle City|F32|Freljord|Ionia|Piltover & Zaun|Shadow Isles,,-1.3916799,-1.6337672
+Borden,7,Bandle City|F08|Freljord|Ionia|Noxus|Shadow Isles,,-1.3333509,10.822728
+hungrylouna129,8,Bilgewater|Noxus|Shadow Isles,,-1.6111325,7.616533
+Davebo,13,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun,,-1.8763921,-5.2567015
+Evilkyatt,14,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-1.7597566,-4.935468
+Im Bard Out,19,Bandle City|F18|Freljord|Mount Targon|Shurima,,-0.74411047,0.89935017
+Carrot Spirit,29,Bandle City|Noxus,,-0.43506953,2.1250787
+mbrookz,21,Bilgewater|Demacia|Piltover & Zaun,,-2.0050015,-5.4102445
+NotreDammit,36,Bandle City|Bilgewater|Piltover & Zaun,,-0.97128075,0.40411127
+Scilla,37,Demacia,,-0.71535045,-0.21008992
+netinho99,39,Freljord|Noxus|Piltover & Zaun|Shurima,,0.9293434,1.9354229
+ANG3L,40,Bilgewater|Demacia,,-2.2055187,-3.5657363
+Keldog,41,Ionia|Mount Targon|Noxus|Shadow Isles|Shurima,,-1.028698,5.754746
+Borden,2,Freljord|Piltover & Zaun,aggro,-1.2169951,-0.15498286
+mbrookz,5,Bilgewater|Demacia|Piltover & Zaun,,-2.0050027,-5.410245
+Mzhkm,8,Bandle City|F32|Freljord|Ionia|Piltover & Zaun|Shadow Isles,,-1.3916792,-1.6337663
+hungrylouna129,12,Bilgewater|Noxus|Shadow Isles,,-1.6111329,7.6165338
+NotreDammit,14,Bandle City|F127|Freljord|Piltover & Zaun|Shadow Isles,,-1.5896863,9.926673
+Evilkyatt,16,Bilgewater|Demacia|Freljord|Mount Targon|Piltover & Zaun|Shadow Isles,,-1.7597556,-4.9354687
+Im Bard Out,18,Bandle City|F43|Freljord|Ionia|Mount Targon|Noxus|Piltover & Zaun|Runeterra|Shurima,,17.340576,-0.57009846
+waitimplaying,24,Demacia|F08|Freljord|Ionia|Mount Targon|Noxus,,-2.3461351,-5.1778173
+iNilesD,29,F08|Noxus|Piltover & Zaun|Shurima,,0.7434911,-0.22479938
+DrChekhov42,34,Bandle City|Demacia|Freljord|Shadow Isles,,-1.4287705,2.778004
+Carrot Spirit,37,Bandle City|Noxus,,-0.43506956,2.1250787
+Davebo,39,Freljord|Piltover & Zaun,midrange,-1.0647234,-0.09266658
+Scilla,42,Demacia,,-0.71535033,-0.21008992
+Keldog,44,Ionia|Mount Targon|Noxus|Shadow Isles,,-1.4899901,6.316252
+ANG3L,52,Freljord|Mount Targon|Noxus,,-1.2157031,-0.5412499
+Scilla,6,Demacia,,-0.71535033,-0.2100899
+Borden,8,Bilgewater|F08|F26|Freljord|Noxus,,-1.2342477,3.6931322
+mbrookz,9,Bandle City|F21|F39|Freljord|Ionia|Noxus|Piltover & Zaun|Runeterra|Shadow Isles|Shurima,,20.4268,-0.80478466
+Barbaronte,12,Bandle City|F39|Freljord|Mount Targon|Noxus|Piltover & Zaun|Runeterra|Shadow Isles,,16.653877,-0.8551551
+hungrylouna129,16,Freljord|Noxus,,-1.2508931,0.85104626
+cloite,23,Demacia|Freljord|Ionia,,-1.5048405,-4.238689
+Mzhkm,26,Freljord|Piltover & Zaun,,-1.2877655,-0.21323031
+ZequiSlo,28,Freljord|Piltover & Zaun,aggro,-1.0746162,-0.011158946
+Thir,31,Bilgewater|Mount Targon,,-0.2833194,-1.7113602

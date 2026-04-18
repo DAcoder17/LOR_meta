@@ -1,325 +1,686 @@
 {
-  "last_index": 51,
+  "last_index": 31,
   "players": [
     {
       "name": "QuoVadisDomine",
       "rank": 0,
-      "lp": 819.0
-    },
-    {
-      "name": "Borden",
-      "rank": 1,
-      "lp": 317.0
-    },
-    {
-      "name": "ThirdRateDuelist",
-      "rank": 2,
-      "lp": 274.0
+      "lp": 1002.0
     },
     {
       "name": "CatholicTrauma",
-      "rank": 3,
-      "lp": 243.0
-    },
-    {
-      "name": "mbrookz",
-      "rank": 4,
-      "lp": 237.0
+      "rank": 1,
+      "lp": 556.0
     },
     {
       "name": "AerosMacCousland",
+      "rank": 2,
+      "lp": 493.0
+    },
+    {
+      "name": "Somali",
+      "rank": 3,
+      "lp": 479.0
+    },
+    {
+      "name": "changess",
+      "rank": 4,
+      "lp": 432.0
+    },
+    {
+      "name": "Scilla",
       "rank": 5,
-      "lp": 209.0
+      "lp": 426.0
+    },
+    {
+      "name": "AThirstyOrange",
+      "rank": 6,
+      "lp": 413.0
+    },
+    {
+      "name": "Borden",
+      "rank": 7,
+      "lp": 398.0
+    },
+    {
+      "name": "mbrookz",
+      "rank": 8,
+      "lp": 372.0
     },
     {
       "name": "Dr3ad",
-      "rank": 6,
-      "lp": 208.0
+      "rank": 9,
+      "lp": 324.0
     },
     {
-      "name": "Mzhkm",
-      "rank": 7,
-      "lp": 198.0
+      "name": "Menstrual Mango",
+      "rank": 10,
+      "lp": 303.0
     },
     {
-      "name": "PandaWantsAHug",
-      "rank": 8,
-      "lp": 192.0
+      "name": "Barbaronte",
+      "rank": 11,
+      "lp": 300.0
+    },
+    {
+      "name": "ThirdRateDuelist",
+      "rank": 12,
+      "lp": 277.0
+    },
+    {
+      "name": "Panther17",
+      "rank": 13,
+      "lp": 271.0
+    },
+    {
+      "name": "Azimo",
+      "rank": 14,
+      "lp": 269.0
+    },
+    {
+      "name": "hungrylouna129",
+      "rank": 15,
+      "lp": 266.0
+    },
+    {
+      "name": "Kalmasacre",
+      "rank": 16,
+      "lp": 250.0
+    },
+    {
+      "name": "ForceScrapNMiss",
+      "rank": 17,
+      "lp": 222.0
     },
     {
       "name": "Hallane",
-      "rank": 9,
+      "rank": 18,
+      "lp": 221.0
+    },
+    {
+      "name": "NaturalCauses",
+      "rank": 19,
+      "lp": 218.0
+    },
+    {
+      "name": "Cristiano",
+      "rank": 20,
+      "lp": 199.0
+    },
+    {
+      "name": "Goth BananaMommy",
+      "rank": 21,
+      "lp": 185.0
+    },
+    {
+      "name": "cloite",
+      "rank": 22,
+      "lp": 184.0
+    },
+    {
+      "name": "Kunfuised",
+      "rank": 23,
       "lp": 178.0
     },
     {
       "name": "SupTsu",
-      "rank": 10,
+      "rank": 24,
       "lp": 177.0
     },
     {
-      "name": "hungrylouna129",
-      "rank": 11,
+      "name": "Mzhkm",
+      "rank": 25,
+      "lp": 173.0
+    },
+    {
+      "name": "SrLux",
+      "rank": 26,
       "lp": 160.0
     },
     {
-      "name": "Panther17",
-      "rank": 12,
+      "name": "ZequiSlo",
+      "rank": 27,
       "lp": 158.0
     },
     {
-      "name": "NotreDammit",
-      "rank": 13,
+      "name": "Foaks",
+      "rank": 28,
+      "lp": 157.0
+    },
+    {
+      "name": "Hypio",
+      "rank": 29,
+      "lp": 155.0
+    },
+    {
+      "name": "Thir",
+      "rank": 30,
+      "lp": 154.0
+    },
+    {
+      "name": "waitimplaying",
+      "rank": 31,
+      "lp": 149.0
+    },
+    {
+      "name": "PirataDoDavila",
+      "rank": 32,
+      "lp": 149.0
+    },
+    {
+      "name": "Soggy Wet Bread",
+      "rank": 33,
+      "lp": 148.0
+    },
+    {
+      "name": "MarioBat",
+      "rank": 34,
       "lp": 146.0
     },
     {
-      "name": "Yamir",
-      "rank": 14,
-      "lp": 145.0
+      "name": "PenjiQ",
+      "rank": 35,
+      "lp": 142.0
     },
     {
       "name": "Evilkyatt",
-      "rank": 15,
+      "rank": 36,
       "lp": 141.0
     },
     {
-      "name": "Addicted2Reroll2",
-      "rank": 16,
-      "lp": 139.0
+      "name": "SrdasParanga",
+      "rank": 37,
+      "lp": 141.0
     },
     {
-      "name": "Im Bard Out",
-      "rank": 17,
+      "name": "t Sizzle",
+      "rank": 38,
+      "lp": 140.0
+    },
+    {
+      "name": "PsychicOnion",
+      "rank": 39,
       "lp": 135.0
     },
     {
-      "name": "Franh",
-      "rank": 18,
-      "lp": 133.0
+      "name": "sidsk12345",
+      "rank": 40,
+      "lp": 134.0
     },
     {
-      "name": "WQYQ",
-      "rank": 19,
+      "name": "Yamir",
+      "rank": 41,
       "lp": 130.0
     },
     {
-      "name": "Somali",
-      "rank": 20,
+      "name": "Davebo",
+      "rank": 42,
       "lp": 129.0
     },
     {
       "name": "denoy",
-      "rank": 21,
+      "rank": 43,
       "lp": 128.0
     },
     {
       "name": "thebigd1234",
-      "rank": 22,
+      "rank": 44,
       "lp": 127.0
     },
     {
-      "name": "waitimplaying",
-      "rank": 23,
-      "lp": 124.0
+      "name": "Luiselhumano",
+      "rank": 45,
+      "lp": 121.0
+    },
+    {
+      "name": "LaFawnDah",
+      "rank": 46,
+      "lp": 121.0
+    },
+    {
+      "name": "WQYQ",
+      "rank": 47,
+      "lp": 120.0
     },
     {
       "name": "Murphy",
-      "rank": 24,
+      "rank": 48,
       "lp": 115.0
     },
     {
-      "name": "AThirstyOrange",
-      "rank": 25,
+      "name": "DesertDemon",
+      "rank": 49,
+      "lp": 115.0
+    },
+    {
+      "name": "Worst Jangle NA",
+      "rank": 50,
+      "lp": 115.0
+    },
+    {
+      "name": "J\u00f8sst",
+      "rank": 51,
+      "lp": 115.0
+    },
+    {
+      "name": "DeadlyKyuzo94",
+      "rank": 52,
+      "lp": 114.0
+    },
+    {
+      "name": "superguh",
+      "rank": 53,
+      "lp": 111.0
+    },
+    {
+      "name": "tinfoil",
+      "rank": 54,
       "lp": 110.0
     },
     {
-      "name": "netinho99",
-      "rank": 26,
-      "lp": 108.0
+      "name": "Subops VillaniF",
+      "rank": 55,
+      "lp": 109.0
+    },
+    {
+      "name": "EMPERADOR",
+      "rank": 56,
+      "lp": 109.0
+    },
+    {
+      "name": "Franh",
+      "rank": 57,
+      "lp": 107.0
+    },
+    {
+      "name": "rekaneki47",
+      "rank": 58,
+      "lp": 104.0
+    },
+    {
+      "name": "Edgy Dank Memer",
+      "rank": 59,
+      "lp": 103.0
+    },
+    {
+      "name": "PandaWantsAHug",
+      "rank": 60,
+      "lp": 101.0
+    },
+    {
+      "name": "SfTommy",
+      "rank": 61,
+      "lp": 101.0
     },
     {
       "name": "AJTehPro",
-      "rank": 27,
+      "rank": 62,
       "lp": 100.0
     },
     {
       "name": "iNilesD",
-      "rank": 28,
+      "rank": 63,
       "lp": 100.0
     },
     {
       "name": "APH El Duro",
-      "rank": 29,
+      "rank": 64,
       "lp": 100.0
     },
     {
       "name": "NoName",
-      "rank": 30,
+      "rank": 65,
       "lp": 100.0
     },
     {
-      "name": "seu chalita",
-      "rank": 31,
+      "name": "biggestDZ",
+      "rank": 66,
       "lp": 100.0
     },
     {
       "name": "The Gigachad",
-      "rank": 32,
+      "rank": 67,
       "lp": 100.0
     },
     {
-      "name": "DrChekhov42",
-      "rank": 33,
+      "name": "BGA Clid",
+      "rank": 68,
       "lp": 100.0
     },
     {
-      "name": "DeathShadow",
-      "rank": 34,
+      "name": "Rodrigo",
+      "rank": 69,
       "lp": 100.0
     },
     {
-      "name": "DeadlyKyuzo94",
-      "rank": 35,
+      "name": "Estudante de Mat",
+      "rank": 70,
+      "lp": 100.0
+    },
+    {
+      "name": "Swiss Voulge",
+      "rank": 71,
       "lp": 100.0
     },
     {
       "name": "Carrot Spirit",
-      "rank": 36,
+      "rank": 72,
       "lp": 100.0
     },
     {
-      "name": "TCVA Smurfing",
-      "rank": 37,
+      "name": "Xapiry",
+      "rank": 73,
       "lp": 100.0
     },
     {
-      "name": "Davebo",
-      "rank": 38,
-      "lp": 99.0
+      "name": "zhuoyan",
+      "rank": 74,
+      "lp": 100.0
     },
     {
-      "name": "PenjiQ",
-      "rank": 39,
-      "lp": 90.0
+      "name": "Im1stor8th",
+      "rank": 75,
+      "lp": 100.0
+    },
+    {
+      "name": "Cutacheroxd14",
+      "rank": 76,
+      "lp": 100.0
+    },
+    {
+      "name": "ThePeterJ",
+      "rank": 77,
+      "lp": 100.0
+    },
+    {
+      "name": "SkullBone",
+      "rank": 78,
+      "lp": 100.0
+    },
+    {
+      "name": "BraveFall",
+      "rank": 79,
+      "lp": 100.0
+    },
+    {
+      "name": "DK catmonX",
+      "rank": 80,
+      "lp": 100.0
+    },
+    {
+      "name": "Sir DiegoADM",
+      "rank": 81,
+      "lp": 100.0
+    },
+    {
+      "name": "CamiloNA",
+      "rank": 82,
+      "lp": 100.0
+    },
+    {
+      "name": "Dari",
+      "rank": 83,
+      "lp": 100.0
+    },
+    {
+      "name": "CoolToad",
+      "rank": 84,
+      "lp": 100.0
+    },
+    {
+      "name": "ReivaX",
+      "rank": 85,
+      "lp": 100.0
+    },
+    {
+      "name": "Kidrobot123",
+      "rank": 86,
+      "lp": 100.0
+    },
+    {
+      "name": "DeathShadow",
+      "rank": 87,
+      "lp": 97.0
+    },
+    {
+      "name": "wiwis",
+      "rank": 88,
+      "lp": 96.0
+    },
+    {
+      "name": "jio88",
+      "rank": 89,
+      "lp": 85.0
+    },
+    {
+      "name": "Gato Pirata",
+      "rank": 90,
+      "lp": 83.0
     },
     {
       "name": "Radmi",
-      "rank": 40,
+      "rank": 91,
       "lp": 82.0
     },
     {
-      "name": "Scilla",
-      "rank": 41,
-      "lp": 80.0
-    },
-    {
-      "name": "ElsaBlue",
-      "rank": 42,
-      "lp": 66.0
-    },
-    {
-      "name": "Keldog",
-      "rank": 43,
-      "lp": 65.0
+      "name": "Zegro",
+      "rank": 92,
+      "lp": 82.0
     },
     {
       "name": "stephen11648",
-      "rank": 44,
-      "lp": 64.0
+      "rank": 93,
+      "lp": 78.0
     },
     {
-      "name": "t Sizzle",
-      "rank": 45,
-      "lp": 48.0
+      "name": "Vonwar",
+      "rank": 94,
+      "lp": 75.0
     },
     {
-      "name": "Madotsuki",
-      "rank": 46,
+      "name": "netinho99",
+      "rank": 95,
+      "lp": 74.0
+    },
+    {
+      "name": "lucian",
+      "rank": 96,
+      "lp": 72.0
+    },
+    {
+      "name": "Vstorm",
+      "rank": 97,
+      "lp": 72.0
+    },
+    {
+      "name": "DrChekhov42",
+      "rank": 98,
+      "lp": 70.0
+    },
+    {
+      "name": "cake",
+      "rank": 99,
+      "lp": 68.0
+    },
+    {
+      "name": "DAZAI",
+      "rank": 100,
+      "lp": 68.0
+    },
+    {
+      "name": "ElsaBlue",
+      "rank": 101,
+      "lp": 66.0
+    },
+    {
+      "name": "Sly Red Fox",
+      "rank": 102,
+      "lp": 63.0
+    },
+    {
+      "name": "Kisshot\u5203\u4e0b\u5fc3",
+      "rank": 103,
+      "lp": 62.0
+    },
+    {
+      "name": "Knekrin",
+      "rank": 104,
+      "lp": 61.0
+    },
+    {
+      "name": "YeetSkeeetBoogie",
+      "rank": 105,
+      "lp": 60.0
+    },
+    {
+      "name": "TCVA Smurfing",
+      "rank": 106,
+      "lp": 58.0
+    },
+    {
+      "name": "LGD \u957f\u6625\u738b\u529b\u5b8f",
+      "rank": 107,
+      "lp": 55.0
+    },
+    {
+      "name": "Addicted2Reroll2",
+      "rank": 108,
+      "lp": 53.0
+    },
+    {
+      "name": "NotreDammit",
+      "rank": 109,
+      "lp": 53.0
+    },
+    {
+      "name": "Im Bard Out",
+      "rank": 110,
+      "lp": 53.0
+    },
+    {
+      "name": "Enan",
+      "rank": 111,
+      "lp": 50.0
+    },
+    {
+      "name": "Daddyurgot",
+      "rank": 112,
+      "lp": 47.0
+    },
+    {
+      "name": "Kyo1035",
+      "rank": 113,
+      "lp": 44.0
+    },
+    {
+      "name": "Jaded Gamer",
+      "rank": 114,
+      "lp": 38.0
+    },
+    {
+      "name": "seu chalita",
+      "rank": 115,
+      "lp": 33.0
+    },
+    {
+      "name": "gabriel1223",
+      "rank": 116,
+      "lp": 33.0
+    },
+    {
+      "name": "Mazo",
+      "rank": 117,
       "lp": 32.0
     },
     {
       "name": "soyI\u00f1aki",
-      "rank": 47,
+      "rank": 118,
       "lp": 30.0
     },
     {
-      "name": "rekaneki47",
-      "rank": 48,
-      "lp": 18.0
+      "name": "Keldog",
+      "rank": 119,
+      "lp": 15.0
     },
     {
-      "name": "Cristiano",
-      "rank": 49,
-      "lp": 17.0
+      "name": "Jin woo",
+      "rank": 120,
+      "lp": 15.0
     },
     {
-      "name": "firmita",
-      "rank": 50,
-      "lp": 17.0
+      "name": "DOUBLE A BATTERY",
+      "rank": 121,
+      "lp": 15.0
+    },
+    {
+      "name": "Konoldo",
+      "rank": 122,
+      "lp": 6.0
+    },
+    {
+      "name": "Augusteira",
+      "rank": 123,
+      "lp": 4.0
     },
     {
       "name": "ANG3L",
-      "rank": 51,
+      "rank": 124,
       "lp": 3.0
     },
     {
       "name": "CKG \u5c0f\u829d\u9ebb",
-      "rank": 52,
+      "rank": 125,
       "lp": 1.0
+    },
+    {
+      "name": "Madotsuki",
+      "rank": 126,
+      "lp": 1.0
+    },
+    {
+      "name": "firmita",
+      "rank": 127,
+      "lp": 0.0
+    },
+    {
+      "name": "Gio",
+      "rank": 128,
+      "lp": 0.0
     }
   ],
   "puuid_cache": {
     "QuoVadisDomine": "KDQGQuOdaMNrrlVKjvvx9TtLRJSXuVUvmnERQbR5-Tg7M25i8Z_-1r4UIeK9l1yYCGhXPRIAJrBtfg",
-    "Borden": "qK9glayGZ5epQctvwehXPI9r5oRK7o06vZ6d6XJXNy_B35V-NIfKnsbD6sbg9oW4vlzESUqjtMEecA",
-    "ThirdRateDuelist": "m-gsthshjMF_ttXkBBzPDmSfMtWGOgZ_sUYaIr0HdRKLGX0J0CqVOEhlS5hnonYBJSnbogDzWh2dpw",
     "CatholicTrauma": "XjF5eRP7_iQGCjeFKSCYwt8JjOAjIkJnQRERzpmXce7p0Qt8g7f-Ongd0pWwQFmi7sAvqm9ZjhiUnA",
-    "mbrookz": "iMQDykjthqoztGrFSrHwtphL2pV9BIrGgAz1EIFDSRHTboYbSYy9SPFPyLCvPzq3i5PdNMVJIeWEiA",
     "AerosMacCousland": "bESbflVyqj_x4HOB7J3HH7CPSkbZvxXzHVmJeNJdjksfOi8qmEzxgBJ4Vx9PG90MbozT19AXU-CUVA",
-    "Dr3ad": "QsfUJ9e5h-m5VdWzsP_73L7ggsdETHWHU1MQOpEYNd0ukhawKPopsdU1X8aOgWfqbt6ON5QlueNNOQ",
-    "Mzhkm": "wKRwXzXitOo8tiys3ThWEcY6NOqbxCgRL6LZa2_S69LCgiqhZdeCqkDtBim83OCOSHJ0lI82rvz5uA",
-    "Hallane": "0iSCa9-ZkoDBwqSu8QmqzQUhWGYltI0sqcjCFUZUSK1E8lOZLyIkKF-Fp-8Ia4e2I-G3YpPByJ-WmA",
-    "hungrylouna129": "4DksskDtcvxtt8JMYwyNMjIIbmau_tz4KwUT-zwcbizxUo3ZMm990UGyxvJ8PHKAEDre0lfPtNGyMw",
-    "Panther17": "MLVbWcJ3gt6LLkOnCpnHCp0P2yHCOKUNQR3zd8vQ-TO5NRnPUHh5SKRpSe3MswLcxiQHfikv9usUGg",
-    "NotreDammit": "Ik2qUvSnwi86IeXEu5fiNj4mTgE6LR2fHlKi_J1gS05olorTm2il2QpyaTh-gdM17lDLdfXLjcZ3lw",
-    "Yamir": "SIqZAz_zxkYl8ySdbtXF-MKgr975DIYMAp2BSKUhPcQD5kIsdT2hJ77y_Wm00UjIxRxH1ppUDW_QUQ",
-    "Evilkyatt": "VIhWFnBFEMr4EV5Wso7qWAXeLXjX7AsH9jGXBsQMzElxqWDkmhYduySwqjiw2LKgm8Vl4x7vCePEVA",
-    "Im Bard Out": "Yz3vZckMMsL-Dws1t-3XJfGXMMs6-aF_NVmV38P_BTavVKVSeopCEa87wrihIzczQX0FLehUySyTFw",
-    "Franh": "IK7PyDR_9d6-_if3fvZhyHKCh1VKl5SsP05IEZJ21jNixCFwD7NG_MBEDhj4sGpqDvvtdq8j2bo9rQ",
     "Somali": "Zx-6MhDIinFicoPXBO2Zfo3t4PozUf-f0mqmXOrEDjQoUJpHrYMqDoMNVobZBKOzVKkXmUaGJIzkuQ",
-    "denoy": "gbrgdXrtqalKrssOr6kn-GOQOFGIzGrZY07nMvXJHSeI6N2Sjj3Z8xYEGS_Z5BU7YhCYzr_AMzeFyw",
-    "thebigd1234": "8d8F_YqMvh5RaJNTkbVOvuQxGqBngnHn9FjNwshMJdZHFM1YfGGUNEqO_A4buwsllBoeAN85-H4lnQ",
-    "waitimplaying": "_azDPaOzvLiVWYOIu_tqeRsKBR8jGB0PqWIwKWT4Q7tkGYQL315DorDP9xtQYmJXyLKmpxH_bxvxjA",
-    "Murphy": "od6vaMqP45XYHgmG8HQ8q4gHhJ-egb9L93LcM61tlnS_DpOJ-mWZ-EUMBEPtNVyPK-YOIjPYDxtoig",
-    "iNilesD": "wyBqeP-e5g-DWGj1HtegH7itQvt6v4ICyf548MkkPS2eOQAg1oZuz0NOBM3NpzMY4X3b_j_0lyxQ8g",
-    "NoName": "7VOWXSuGDRJwVsBmgsrEiaASBEnELOy93c9D4vgfwPZ-4mHnmevtmNh53p0lwSzirS8irTB8oTYAjg",
-    "seu chalita": "H8F5p6x7yA7QT2mGaT3p5FOmKuUzZ2OjCli1u8GtFE8-grun9EoG4_jzg_fVqHydswDPz7DmMX2rfw",
-    "The Gigachad": "zrGrzq92T-95vBh_VlANnsWeQfA_J5vV22J9jU_XzP87E-_v6CR8ZkelzOzO0FmLM2Aa1tlTi5p2Nw",
-    "DrChekhov42": "1c4nwBwSyv5F1x83lL5dfhKFmmilYJSGA5t0If7XkaoDeMUcqouHaokbFO8-2k5ClT0A1DDCqeWjkw",
-    "DeathShadow": "9uGQoCGPBVbiwqpAc7bzXvNebOr5WcfQSOCLvIiDVrhci97i_SvBEEI1FsZNjOG1QVHxivAJ5YqeHw",
-    "Carrot Spirit": "NF9ZwowvSyBz45YcetDzIlsyVLSXCW7enL4zTVyKjr2XKr2XBFWy1fc_CdtXAjFtiOBxXQRJAYTRUA",
-    "Davebo": "VLKpCAmlUM3NEPhfXqQhNpavrwVpFqBTl0XhrDvMARySiqz6PJyEtbCAExJgF-KsxVkqbVZgpxDFSQ",
-    "Radmi": "GP9nitdHMEtyXZphnZlh0HXZ_CJ5Gl79sEZ2cZyL84VOCyccFm4YfUBz1j47yqrnCZyR9mtGYI4YkQ",
+    "changess": "qyB6pOG3Eqd3OIbDYdnwC9Pc4grMWbCgokCvBmLXbVAE8kFt27mVkP7X1FKfNEa6f-OlZi2mNtTKKw",
     "Scilla": "vwIBeem3KeMHt2DXT689hGEUoZwydZ1S7q2GcWLHvl4GxNDmaxHhI4X25Rx9afLQ0Z4io5Xm3dC2-A",
-    "ElsaBlue": "4PmJTSC2KsL8ZC4dXZpT2QhTWMJrZzDY4jgngriMFkiGNqEgWQn9Rx6pvrtSWaf8sZVaia_IWBgNgw",
-    "Keldog": "1CKHt5W262OqVUahdjh11tOI_iLOClJy8SS9v3HT9RIEWsSJ40CQAUPI_xtuajXdOFC7cdvA3xsd3A",
-    "t Sizzle": "mYWmqO1ld8Ht45Pgd7cNCbQDGdCRdUvRHUt2sn2XiRXp54w07tuMxxUaYYCZyqV3Adu1FKeGq5S_BA",
-    "Madotsuki": "FC5QqdPXgSOLY8nRh7gHpGO0isQ77V1OOdEtU0pujZnzxMcRuzyj1ObDQU_P25q94VpaaSE4Nn6duw",
+    "Borden": "qK9glayGZ5epQctvwehXPI9r5oRK7o06vZ6d6XJXNy_B35V-NIfKnsbD6sbg9oW4vlzESUqjtMEecA",
+    "mbrookz": "iMQDykjthqoztGrFSrHwtphL2pV9BIrGgAz1EIFDSRHTboYbSYy9SPFPyLCvPzq3i5PdNMVJIeWEiA",
+    "Dr3ad": "QsfUJ9e5h-m5VdWzsP_73L7ggsdETHWHU1MQOpEYNd0ukhawKPopsdU1X8aOgWfqbt6ON5QlueNNOQ",
+    "Barbaronte": "9a2qB8uTMNBKODgBHYOYsiFBKF34wGbJqeLclag9IqdLeNQMkyJqQ0bKJX8uos1ZzoXkuPnf2YM41Q",
+    "ThirdRateDuelist": "m-gsthshjMF_ttXkBBzPDmSfMtWGOgZ_sUYaIr0HdRKLGX0J0CqVOEhlS5hnonYBJSnbogDzWh2dpw",
+    "Panther17": "MLVbWcJ3gt6LLkOnCpnHCp0P2yHCOKUNQR3zd8vQ-TO5NRnPUHh5SKRpSe3MswLcxiQHfikv9usUGg",
+    "Azimo": "_XsZ_uGFSnGIgwrEJgnLA6NpyKIsk2_iV40wiHqcHxYGPo89T0--ewMWBayZfLmrG-xLy6x22P1zsw",
+    "hungrylouna129": "4DksskDtcvxtt8JMYwyNMjIIbmau_tz4KwUT-zwcbizxUo3ZMm990UGyxvJ8PHKAEDre0lfPtNGyMw",
+    "Hallane": "0iSCa9-ZkoDBwqSu8QmqzQUhWGYltI0sqcjCFUZUSK1E8lOZLyIkKF-Fp-8Ia4e2I-G3YpPByJ-WmA",
+    "NaturalCauses": "1R2--Ptzuc7UYdJxgb_jlTmq2HMJ-DAgf9FU1oSnvDVCwfr-25MTt2GLeq4T8L8I5mlEgEXFONAW7w",
     "Cristiano": "rfez9pE-pUga4ukYR4uYVObnj1kd2SlZjQQ4lJqhCrBZ4mtznOAwDcHDPNlD-LVSmwifaQEoXPbT2Q",
-    "ANG3L": "64T_QJuxrjgymcgVU_WRi83XMzxl5n3CFbhCLnEpra1r8axDA_rRCCP2Lvk2rIRx-TL7jn-FAfdNqQ"
+    "cloite": "S5FeQ_9nYTSQwyzmssTeHjZtfnkDOY3-IkDlNjCoY-lrZ1-TX6gxgYaqnpjF5OIyCnEyB_-uuFMDVg",
+    "Mzhkm": "wKRwXzXitOo8tiys3ThWEcY6NOqbxCgRL6LZa2_S69LCgiqhZdeCqkDtBim83OCOSHJ0lI82rvz5uA",
+    "SrLux": "H-fWn8LHBQxnOmd7Kyf-NwUVt6o-rxHMAXHvLjCEsGzS3ea4Ia2xQ5j9sA8q2qzxUXYhuIipFP5LqA",
+    "ZequiSlo": "sDHVIztIwYIUMUMQMbtW8_F0xNYe4ZkpSBHW9D2r8pxioi2rKuddbjA33gjylSaOO6jIvO4FCZQXRg",
+    "Foaks": "mvfQzUMz35_teRcLrR-LpK-Vi24U1TsU_7I4wWpmqWi472r8YnE38j02eXoRkCckPxdt7EZSI-bEnQ",
+    "Hypio": "bpsYPyvC7NatbawsA6vt43qXwMEhvj8IpzoPjKtGpHwh3zpdg1QBK3u_uTZp45GYONtduYoUp9xjyA",
+    "Thir": "PSn5jNtfV5cPKB1w5tU3K4_C3dNJ9MQC0F7qfI93H6EPCuf1SM32zjIn7YY3xzuflYfagd4d7Fr5gg",
+    "waitimplaying": "_azDPaOzvLiVWYOIu_tqeRsKBR8jGB0PqWIwKWT4Q7tkGYQL315DorDP9xtQYmJXyLKmpxH_bxvxjA"
   },
   "failed_names": [
-    "PandaWantsAHug",
-    "SupTsu",
-    "Addicted2Reroll2",
-    "WQYQ",
     "AThirstyOrange",
-    "AJTehPro",
-    "APH El Duro",
-    "DeadlyKyuzo94",
-    "TCVA Smurfing",
-    "PenjiQ",
-    "stephen11648",
-    "soyI\u00f1aki",
-    "rekaneki47",
-    "firmita"
+    "Menstrual Mango",
+    "Kalmasacre",
+    "ForceScrapNMiss",
+    "Goth BananaMommy",
+    "Kunfuised",
+    "SupTsu"
   ]
 }

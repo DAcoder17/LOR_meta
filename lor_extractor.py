@@ -479,7 +479,8 @@ def main() -> None:
     print("=" * 62)
     print(f"  Región     : {REGION}")
     print(f"  Jugadores  : {TOP_N}  |  Partidas: últimas {MATCHES_COUNT}")
-    print(f"  Rate limit : {RateLimiter.MAX_REQ} req / {RateLimiter.WINDOW:.0f}s (ventana deslizante)")
+    print(f"  Rate limit : {RateLimiter.SEC_MAX} req/s  |  "
+    f"{RateLimiter.MIN_MAX} req/{RateLimiter.MIN_WINDOW:.0f}s (dual window)")
     print(f"  Outputs    : {OUTPUT_CSV}  +  {OUTPUT_XLSX}\n")
 
     # ── 0. Pre-cargar Data Dragon ─────────────────────────────────────────────
