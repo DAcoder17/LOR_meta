@@ -34,7 +34,7 @@ from openpyxl.styles import Font, PatternFill, Alignment
 # CONFIGURACIÓN  —  edita solo esta sección
 # ══════════════════════════════════════════════════════════════
 
-API_KEY       = "RGAPI-f28e6d97-3b55-41bf-a0a0-bd7cd5deb0a4"   # ← tu clave actual
+API_KEY       = "RGAPI-80e7fb25-30c1-4a57-8761-de0b337fa0bd"   # ← tu clave actual
 REGION        = "americas"                      # americas | europe | sea
 TOP_N         = 1750                            # jugadores a procesar
 MATCHES_COUNT = 10                              # últimas N partidas por jugador
@@ -58,42 +58,62 @@ KNOWN_DD_SETS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 # ══════════════════════════════════════════════════════════════
 
 class RateLimiter:
-    """
-    Implementa el límite de 100 requests por cada ventana de 120 segundos.
-    Pausa proactivamente antes de exceder la cuota, no tras recibir un 429.
-    """
-    WINDOW  = 120.0   # segundos
-    MAX_REQ = 95      # usamos 95 de los 100 como margen de seguridad
+    # Ventana 1: 20 req/s  → usamos 18 como margen
+    SEC_WINDOW = 1.0
+    SEC_MAX    = 18
+    # Ventana 2: 100 req/2min → usamos 95 como margen
+    MIN_WINDOW = 120.0
+    MIN_MAX    = 95
 
     def __init__(self):
-        self._timestamps: deque = deque()   # timestamps de los últimos requests
+        self._sec_ts: deque = deque()   # timestamps ventana 1s
+        self._min_ts: deque = deque()   # timestamps ventana 120s
 
     def wait(self) -> None:
-        now = time.monotonic()
-
-        # Descartar timestamps fuera de la ventana
-        while self._timestamps and now - self._timestamps[0] >= self.WINDOW:
-            self._timestamps.popleft()
-
-        # Si estamos al límite, esperar hasta que el más antiguo salga de ventana
-        if len(self._timestamps) >= self.MAX_REQ:
-            sleep_for = self.WINDOW - (now - self._timestamps[0]) + 0.1
-            if sleep_for > 0:
-                print(f"    ⏸  Cuota casi llena — pausa proactiva {sleep_for:.1f}s")
-                time.sleep(sleep_for)
-            # Limpiar de nuevo tras la espera
+        while True:
             now = time.monotonic()
-            while self._timestamps and now - self._timestamps[0] >= self.WINDOW:
-                self._timestamps.popleft()
 
-        self._timestamps.append(time.monotonic())
+            # Limpiar timestamps fuera de cada ventana
+            while self._sec_ts and now - self._sec_ts[0] >= self.SEC_WINDOW:
+                self._sec_ts.popleft()
+            while self._min_ts and now - self._min_ts[0] >= self.MIN_WINDOW:
+                self._min_ts.popleft()
+
+            sec_ok = len(self._sec_ts) < self.SEC_MAX
+            min_ok = len(self._min_ts) < self.MIN_MAX
+
+            if sec_ok and min_ok:
+                break   # podemos hacer el request
+
+            # Calcular cuánto esperar para la ventana más restrictiva
+            if not min_ok:
+                # La ventana de 2 min está llena → esperar hasta que
+                # el request más antiguo salga de la ventana
+                sleep_for = self.MIN_WINDOW - (now - self._min_ts[0]) + 0.05
+                label = f"ventana 120s llena ({len(self._min_ts)}/{self.MIN_MAX})"
+            else:
+                # La ventana de 1s está llena → espera muy corta
+                sleep_for = self.SEC_WINDOW - (now - self._sec_ts[0]) + 0.01
+                label = f"ventana 1s llena ({len(self._sec_ts)}/{self.SEC_MAX})"
+
+            if sleep_for > MAX_PENALTY:
+                raise RateLimitPenalty(int(sleep_for))
+
+            print(f"    ⏸  {label} — pausa {sleep_for:.2f}s")
+            time.sleep(max(sleep_for, 0))
+
+        # Registrar el request en ambas ventanas
+        now = time.monotonic()
+        self._sec_ts.append(now)
+        self._min_ts.append(now)
 
     @property
-    def used(self) -> int:
+    def used(self) -> tuple[int, int]:
+        """Retorna (requests en ventana 1s, requests en ventana 120s)."""
         now = time.monotonic()
-        while self._timestamps and now - self._timestamps[0] >= self.WINDOW:
-            self._timestamps.popleft()
-        return len(self._timestamps)
+        sec = sum(1 for t in self._sec_ts if now - t < self.SEC_WINDOW)
+        mn  = sum(1 for t in self._min_ts if now - t < self.MIN_WINDOW)
+        return sec, mn
 
 
 rl = RateLimiter()
@@ -513,9 +533,10 @@ def main() -> None:
             state["last_index"] = i
             continue
 
+        sec_used, min_used = rl.used
         print(f"  [{i:>4}/{len(players)}] {name:<28}  LP:{lp:<6} "
-              f"[rl:{rl.used:>2}/{RateLimiter.MAX_REQ}]",
-              end="", flush=True)
+            f"[1s:{sec_used:>2}/{RateLimiter.SEC_MAX} | 2m:{min_used:>2}/{RateLimiter.MIN_MAX}]",
+            end="", flush=True)
 
         try:
             # PUUID (desde caché si ya fue resuelto antes)
