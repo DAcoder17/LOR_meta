@@ -34,7 +34,7 @@ from openpyxl.styles import Font, PatternFill, Alignment
 # CONFIGURACIÓN  —  edita solo esta sección
 # ══════════════════════════════════════════════════════════════
 
-API_KEY       = "RGAPI-f500db42-f8f0-4913-9fb6-662445c1bc86"   # ← tu clave actual
+API_KEY       = "RGAPI-7b6e4f5a-6d15-4a6a-ad43-6c001659223c"   # ← tu clave actual
 REGION        = "americas"                      # americas | europe | sea
 TOP_N         = 1750                            # jugadores a procesar
 MATCHES_COUNT = 10                              # últimas N partidas por jugador
