@@ -1,5 +1,5 @@
 {
-  "last_index": 340,
+  "last_index": 382,
   "players": [
     {
       "name": "CatholicTrauma",
@@ -2162,7 +2162,38 @@
     "Demon Hunter": "4-KvyhlIeJCV7xO_1EUZ0yJy7BtcBIqCE89HartbkjFrXqEL81ePjr_3DaiyrbZ5m4HpiRWU9gZYUw",
     "n1cOw1": "gWLGE1M0AyBdaHFejf6iBykXCU7SQgHtfGRuQcL5YJIjvxZWrh9j4s1r3aauIrDFBf3dDSfh-91png",
     "Sartiga": "WLDSNkghXhLWN4bili67RcwqUiroSia-3tdh4UKOMGobX8xH1cpLMqcHOhdEIdQNi7G6pp2JZvaxpg",
-    "zstacks": "xCbtgFA1YJQrtWRSNqIBB_baxYXZ66BcsBQbAO7etA2BfFCZ987Qsw5255i7DZuwYWIoDYzag-wMPg"
+    "zstacks": "xCbtgFA1YJQrtWRSNqIBB_baxYXZ66BcsBQbAO7etA2BfFCZ987Qsw5255i7DZuwYWIoDYzag-wMPg",
+    "Wolfstocs": "-M26hvluB9ZYDHpEv8BjleefydV21zzm2QSdI0mNwXnlvMyFNXLt07NFAgW2BGCGksvQ0-vqMu_Fyw",
+    "TN Chema": "QvhkiAwTVxA02NsMxspvn1dY47fm0KrT49HdQecvwZLBtx8mJpph-_vmVSbICA-ExG1JclQzoPYiOA",
+    "tiagoramos": "rIqbHEOGx-nJvMohlG1JZKKf4mfcYXLaNMK9pn__2cHPUkYfKqFwc1NF1redk994b9TG_HlEYI6Dgg",
+    "Tenza": "2OR19xVMFyxhT61Ge4nA_In6fWzhAB4k2eY0iB3wZyLUJA1XCA6GcXfPYAyE_78phEJEsOTZiCeP8Q",
+    "DOUBLE A BATTERY": "Zi0ooeaPDWtw0B9w-RjKJY0dQYd5HBm2tsJ7A8KZ8jzmtH8-2iKuFqgrLFsAhewrnQoFgRutqAx-zA",
+    "Vonwar": "GMu2FD_xCmv8i5xSCCnBOjuXsilbNT-77DnvDa-cqzGc8QXpQTnPIYI5vRgJCrd2jfCItISOmqorkw",
+    "Endsein": "rQnS9k6LKR2iX4KwruH_HR5waGeX2wsp31iN9DmuGh6gRoA68kCJQA5wAwb18SHSuWV4nRGimaCFdQ",
+    "Jorgelv": "6Dxi0bFKFtZjazz9mTCG_k3KZbVZcCTBX4H4DiwwZFk7kWWS3gt8RB4TFwsWJbgS6iyCBw9dkxnlaA",
+    "Keldog": "1CKHt5W262OqVUahdjh11tOI_iLOClJy8SS9v3HT9RIEWsSJ40CQAUPI_xtuajXdOFC7cdvA3xsd3A",
+    "ChelseyBabyCake": "HlUxWPl1cN_YiDzlRJy6Ky-5zy-4WFSXO2iVvx_b_LhmtbQY7xGra3gzPYnhOTqRX_l0c05RQ9HCaw",
+    "batmankv": "U1AcADci3fc4Uk79Z4RBMnxKSSrOC4PTqUPUwRP-y95hzOWONA9Yujz3yQIK8iJqDS2vvguC-oes9w",
+    "Edgy Dank Memer": "F74AKcKMmPGOnYg66v1j86wCa8V6a1aGJrZDLcyWZ85FJLfiGjvMJR1wC_Nzsz-vWuaUikoWp-d0eg",
+    "The Condor Hero": "cLreYqCgVsM-tdtswOoteDVHRuhSGY5uRv2QIM9DRlHpzvUtaJKwhsuJYOSsJAXdB4wNeH9DRX0Jpw",
+    "ANG3L": "64T_QJuxrjgymcgVU_WRi83XMzxl5n3CFbhCLnEpra1r8axDA_rRCCP2Lvk2rIRx-TL7jn-FAfdNqQ",
+    "Kel": "juzwXAhWLmFqqc2_gmmhF16_ixckPE314L0Hqn2q36gTAyljvZ_cDXL9sbLvscbaL6vuppecPkBTvA",
+    "Callme Sukuna": "nKpl6Zq_Rl2BjyuSmiTozm9P3QBsTZKENgpisJ3KzHiA1TJFMJXxoRfEinSYayF7oc3HboU8R0oJPw",
+    "momo": "e5RwVjtclvxiJYHtgBfrOjIkgeIVEHEYFxkRfF_S-76g_zOl8t-w73InIZtGaEAaQNiNG-OcBJExLQ",
+    "Madotsuki": "FC5QqdPXgSOLY8nRh7gHpGO0isQ77V1OOdEtU0pujZnzxMcRuzyj1ObDQU_P25q94VpaaSE4Nn6duw",
+    "Fathermitch": "u9P21YdI4OIKc24Y0pF-80wnRRaEBUDTLOJ0i0GI8KLbG_AFSLJkG97OBNPX-I4XWtnnhjdRtGPZtg",
+    "Street Saint": "E7smQaEa-hHpUuWQqVn-mefaJrXHeFLEoMWV-L32PyWbHALmGjQ3ddKMC9eUIgCOIYgT5g7IyJBAwQ",
+    "Eksirf": "suoMpWzGhtjvF_YYo5Yz40FMKQk5OdgLb3OF_JE5690sWdr1F5HzX1HoRMd2zOvlW2IdzkrNq7UuOw",
+    "siega": "9yDD6KEz8iEPHtIVS1ZBbp9-qLC9vI4XaJU79qQemE_-JAybaWykr1N2FjJ-Gc2JuOF58jQjjRNfZQ",
+    "MrPapichurris": "k5Mo2wzvsv69wr-ICakBXkpwPqxDhYBp9bOHGBRzFkYUpEMe6ORsHPlEf_A5xI8kguB54rx9M-WHHQ",
+    "Inoue": "qu2WL4gZ-4VP1YXtrG6iCl2EfpffJAbrfVPDV0GLpUpVkxAQQ-1ZECo1eBtJEybusSox2v32BQTsWg",
+    "Helen Keller": "8Iq7gyqxpmSOizvKWiZ-Usr3Q-bcQ2vySuC7Al-jqE3O-vbMgUq7ertSG3nLVRWE-h6SVT4Tbc4KpQ",
+    "Dari": "2v_pIYe_9pNXyoogcO7_RtZIWkaSSYPrcFFdlj2vTIF4KvkcWYbrV3mW7Cn7OEaMt_W8ih-IxMF4Ow",
+    "Caramelo07": "8q_A3W2j4zqkUseWjKlJEqlWYhy0I9CKKvlF6U-n6z1PItnbfN-8HLBEDKBcrABCgGRGf4Y59KLuRg",
+    "Gato23": "eY4TfOOwgo9JsG0YW5VLq0FiPlKcvlLpY8ENqXGyw4Yl8UAwrA79QjiRq0tmttRUMvZbLfQbC6pSLQ",
+    "VICEREME": "0dOWqKCbYXD-5wmCrgaSwfICOpIbHqvGMZDNw-U50Xbf-OOjPJxG97aGKvpXz5701cWy3A_mK6PFxg",
+    "aminnoo": "mSzd_6ozuhJSYsCq5H7lSpPcuo3wHccXTpeW9RfdDjqJbOUN7zc6IRJx4fwcnnAvswgBrMqec3NX7A",
+    "Arfilion": "w5T0Juwqz8aUwHcRj5-fehs9dULlHagJG9j561E4xl9-xHA2rI0-dBNq-JoOIVyCNOtgVQxCNIGf4Q"
   },
   "failed_names": [
     "AThirstyOrange",
@@ -2255,6 +2286,16 @@
     "Hiromichanm",
     "HumblyH",
     "ulquiorraquendo",
-    "soyI\u00f1aki"
+    "soyI\u00f1aki",
+    "YeetSkeeetBoogie",
+    "Megaguman",
+    "bobomajo",
+    "OrangeWinter",
+    "Kisshot\u5203\u4e0b\u5fc3",
+    "Konoldo",
+    "BeanDD",
+    "THEnd\u4e36",
+    "Gabumon125",
+    "thelatequeen"
   ]
 }
