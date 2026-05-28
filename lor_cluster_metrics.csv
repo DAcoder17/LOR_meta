@@ -1,0 +1,4 @@
+Algoritmo,Silhouette ↑,Davies-Bouldin ↓,Calinski-Harabasz ↑
+Jerárquico Ward,-0.0072,2.1865,2.5855
+K-Means,0.0369,4.4275,2.1834
+GMM,-0.0501,2.8431,1.7961
